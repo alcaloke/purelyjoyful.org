@@ -1,0 +1,7 @@
+{% assign social = site.social_links %}
+
+<ul class="social-media-list">
+    {% if social.rss %}<li><a href="{{ 'feed.xml' | relative_url }}" title="{{ social.rss | escape}}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/social-icons.svg#rss' | relative_url }}"></use></svg></a></li>
+</ul>
+
+{% endif %}

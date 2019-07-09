@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+// Font defaults
+$base-font-family: 
+-apple-system,
+BlinkMacSystemFont,
+"Segoe UI",
+Roboto,
+Helvetica,
+Arial,
+sans-serif,
+"Apple Color Emoji",
+"Segoe UI Emoji",
+"Segoe UI Symbol";
+
+$base-font-size: 16px;
+$base-font-weight: 400;
+$small-font-size: $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+// Default spacing
+$spacing-unit: 30px;
+$table-text-align: left;
+
+// Default colours
+$text-color: #111;
+$background-color: #FFFFFF;
+
+$myPink: hsl(351, 100%, 75%);
+$brand-color: $myPink;
+$brand-color-2: #FFFFFF;
+
+$grey-color: #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark: darken($grey-color, 25%);
+
+$orange-color: #f66a0a;
+
+// Width of content area
+$content-width: 800px;
+
+$on-palm: 600px;
+$on-laptop: 800px;
+
+$on-medium: $on-palm;
+$on-large: $on-laptop;
+
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+@mixin relative-font-size($ratio) {
+    font-size: $base-font-size * $ratio
+}
+
+@import "maxima/base",
+"maxima/header",
+"maxima/footer",
+"maxima/page",
+"maxima/post";
