@@ -8,7 +8,7 @@ author: Yong
 email: alcaloke@gmail.com
 
 baseurl: 
-url: 
+url: www.purelyjoyful.org
 
 plugins:
   - jekyll-seo-tag
@@ -23,6 +23,6 @@ social_links:
   rss: rss
 
 disqus:
-  shortname: 
+  shortname: purelyjoyful
 
-google_analytics: 
+google_analytics: UA-142892802-2
