@@ -8,7 +8,7 @@ author: Yong
 email: alcaloke@gmail.com
 
 baseurl: 
-url: http://www.purelyjoyful.org
+url: https://www.purelyjoyful.org
 
 plugins:
   - jekyll-seo-tag
