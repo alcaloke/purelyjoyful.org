@@ -9,7 +9,7 @@ I have spent most of my life suffering with doubts and fears of all kinds, which
 
 > Suffering is absolutely unnecessary
 
-Suffering is absolutely unnecessary, and it is possible to live your life without it. What does life without suffering feel like? Purely joyful. This pure joy does not depend on any objects outside of oneself, or any thoughts inside of oneself. It is always available to anyone who does not get lost in one’s own mind. Actually everyone knows what it feels like already; it has simply been forgotten. All human beings were purely joyful before the brain began to store memory. Look into an infant’s innocent eyes that sees everything afresh, and you will get an inkling of what you have forgotten.
+Suffering is absolutely unnecessary, and it is possible to live your life without it. What does life without suffering feel like? Purely joyful. This pure joy does not depend on any objects outside of oneself, or any thoughts inside of oneself. It is always available to anyone who does not get lost in one’s own mind. Actually everyone knows what it feels like already; it has simply been forgotten. All human beings were purely joyful before the brain began to store memories. Look into an infant’s innocent eyes that sees everything afresh, and you will get an inkling of what you have forgotten.
 
 > Doubt and fear are not anything other than the brain responding to whatever circumstances that are encountered, to ensure the security and the safety of that human body
 

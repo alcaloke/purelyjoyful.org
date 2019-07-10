@@ -2,9 +2,10 @@
 layout: post
 title: Freedom from Free Will
 author: Yong
-categories: 
-permalink: /:categories/:title 
+permalink: /:title 
 ---
+
+> All painful thoughts are caught up in psychological time, and, they are driven by the belief that one is free to choose the actions that can influence the outcomes of one’s life
 
 Most, if not all of our sufferings originate from the belief that we can influence the events that unfold in our lives through the choices that we make. As an example, in regret, one is tormented by a mistake that one may have made, that led to an undesirable outcome. Whether that regret has to do with other people, or, to do with a self-sabotage; one is caught up in thinking that centres around: *"what if I hadn’t done that, or, only if I had done this instead"*. Essentially, all painful thoughts are caught up in psychological time, and, they are driven by the belief that one is free to choose the actions that can influence the outcomes of one’s life.
 
@@ -22,11 +23,11 @@ All thoughts arise autonomously and spontaneously. We have no idea where they co
 
 > Negative thoughts lose their power to bind us because regretting about the past, or, doubting about the future are realised to be totally futile
 
-The realisation that all thoughts, actions and events arise autonomously is truly liberating. Life is full of undesirable events and circumstances that may lead to such feelings as guilt, resentment and doubt. If we can see clearly that we could have done nothing about how the past had unfolded, or, that we can do nothing about how the future will unfold; then such feelings as guilt, resentment and doubt will lose their power to catch hold of us within the web of psychological time. Such negative thoughts lose their power to bind us because regretting about the past, or, doubting about the future are realised to be totally futile. There is no denying that relatively what was encountered in the past may have been undesirable, however it is possible that one no longer wastes one’s mental energy being caught up in thinking about all kinds of *"what if, and, only if"* scenarios.
+The realisation that all thoughts, actions, and events arise autonomously is truly liberating. Life is full of undesirable events and circumstances that may lead to such feelings as guilt, resentment and doubt. If we can see clearly that we could have done nothing about how the past had unfolded, or, that we can do nothing about how the future will unfold; then such feelings as guilt, resentment and doubt will lose their power to catch hold of us within the web of psychological time. Such negative thoughts lose their power to bind us because regretting about the past, or, doubting about the future are realised to be totally futile. There is no denying that relatively what was encountered in the past may have been undesirable, however it is possible that one no longer wastes one’s mental energy being caught up in thinking about all kinds of *"what if, and, only if"* scenarios.
 
 > Undesirable circumstances are encountered as normal but one no longer resists them anymore. How can one resist that which is inevitable?
 
-The suggestion here that we do not make our own choice and that life unfolds autonomously may sound depressing. However, the opposite seems to be the case. When everything unfolds choicelessly, life ceases to threaten, because there is nothing that one can regret about the past, or, fear about the future. Also, one gains so much energy because one is no longer caught up psychological time. Regretful or fearful thoughts may arise but they are easily disregarded. Of course, it does not mean that life becomes a totally smooth ride. Undesirable circumstances are encountered as normal but one no longer resists them anymore. How can one resist that which is inevitable? There is simply no room for resistance. 
+The suggestion here that we do not make our own choice and that life unfolds autonomously may sound depressing. However, the opposite seems to be the case. When everything unfolds choicelessly, life ceases to threaten, because there is nothing that one can regret about the past, or, fear about the future. Also, one gains so much energy because one is no longer caught up psychological time. Regretful or fearful thoughts may still arise but they are easily disregarded. Of course, it does not mean that life becomes a totally smooth ride. Undesirable circumstances are encountered as normal but one no longer resists them anymore. How can one resist that which is inevitable? There is simply no room for resistance. 
 
 > Regardless of what happens in life, one is flooded in pure joy, that which is no different to the surplus energy that is freed up from no longer being consumed by unnecessary suffering
 
