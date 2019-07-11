@@ -11,7 +11,7 @@ Life is not as dramatic as one thinks it to be. It is only thoughts that label a
 
 > Have you ever noticed that it is impossible to sustain anything in our experience? 
 
-Of course, it is very difficult to see that everything is emptiness. We clearly perceive things with our senses, which bring about all kinds of thoughts and feelings. How can these seemingly tangible things that I perceive and experience, be empty in essence? However have you ever noticed that it is impossible to sustain anything in our experience? Whether it be a thought, a sound, a feeling, an emotion, a memory, a phone call, a conversation, a celebration, and so on; one can never hold onto an experience even for a moment! Every experience is constantly moving and changing. Of course, it is possible to have similar experiences, however they are never quite the same as the ones that came before.
+Of course, it is very difficult to see that everything is emptiness. We clearly perceive things with our senses, which bring about all kinds of thoughts and feelings. How can these seemingly tangible things that I perceive and experience, be empty in essence? However, have you ever noticed that it is impossible to sustain anything in our experience? Whether it be a thought, a sound, a feeling, an emotion, a memory, a phone call, a conversation, a celebration, and so on; one can never hold onto an experience even for a moment! Every experience is constantly moving and changing. Of course, it is possible to have similar experiences, however, they are never quite the same as the ones that came before.
 
 > Only something that is illusory can come in and out of existence because only its insubstantial nature allows it to change from a thing to no-thing, and visa-versa
 

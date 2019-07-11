@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-The writings of this blog records my journey into a purely joyful way of being, that does not waver regardless of what happens in my life. I would like to share some insights that has allowed me to be more spontaneous and playful with everything that life throws at me.
+{{ site.description }}
 
 I have spent most of my life suffering with doubts and fears of all kinds, which I realise now to be totally unnecessary. The subtle message here is that what is unnecessary is the suffering. Doubt and fear are not the problem in themselves; they are a natural response of the human mind and body. It would be unnatural for someone to never doubt or fear. How could someone like that survive or get anything done? 
 
