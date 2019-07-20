@@ -25,6 +25,7 @@ pagination:
   enabled: true
   per_page: 3
   permalink: '/home/:num/'
+  title: ':title'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
