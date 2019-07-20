@@ -2,7 +2,8 @@
 layout: post
 title: Everything is a Manifestation of Love
 author: Yong
-permalink: /:title
+categories: blog
+permalink: /:categories/:title
 ---
 
 Everything that we experience in life; whether it is pleasurable or painful; is a manifestation of love. What is this love that expresses itself as everything that we experience? Love is totally unbiased and unconditional allowance of everything as it is. 

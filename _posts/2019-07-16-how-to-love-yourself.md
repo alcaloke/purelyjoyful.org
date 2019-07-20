@@ -2,7 +2,8 @@
 layout: post
 title: How to Love Yourself
 author: Yong
-permalink: /:title
+categories: blog
+permalink: /:categories/:title
 ---
 
 There are two ways in which most people love themselves. One way is by idealising yourself to be someone that you are not. Whether that idealisation has to do with a picture perfect image of your physical self, or imagining yourself to be super talented at whatever that you are working on; such idealised image of yourself is most likely to be an over-estimated and a distorted version of who you actually are. 

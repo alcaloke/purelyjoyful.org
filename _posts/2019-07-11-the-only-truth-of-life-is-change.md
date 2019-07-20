@@ -2,7 +2,8 @@
 layout: post
 title: The only Truth of Life is Change
 author: Yong
-permalink: /:title
+categories: blog
+permalink: /:categories/:title
 ---
 
 > The fact that change is the only changeless quality in life is refreshingly liberating. It means that we can let go of whatever that life brings as soon as it is experienced

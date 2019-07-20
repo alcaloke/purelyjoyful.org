@@ -2,7 +2,8 @@
 layout: post
 title: Emptiness speaks through Transience of Life
 author: Yong
-permalink: /:title
+categories: blog
+permalink: /:categories/:title
 ---
 
 > The only certainty we can have about life is that everything arises out of emptiness, and that emptiness speaks to us through transience of life

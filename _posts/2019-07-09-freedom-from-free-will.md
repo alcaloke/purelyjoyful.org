@@ -2,7 +2,8 @@
 layout: post
 title: Freedom from Free Will
 author: Yong
-permalink: /:title 
+categories: blog
+permalink: /:categories/:title
 ---
 
 > All painful thoughts are caught up in psychological time, and, they are driven by the belief that one is free to choose the actions that can influence the outcomes of one’s life
