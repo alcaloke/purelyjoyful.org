@@ -16,6 +16,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate-v2
 
+# header_pages:
+#   - about.md
+
 show_excerpts: true
 
 pagination:
