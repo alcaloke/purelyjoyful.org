@@ -6,7 +6,7 @@ categories: blog
 permalink: /:categories/:title
 ---
 
-It is inevitable that both pleasurable and painful experiences are encountered in life. Also it is natural for us to desire pleasure, and fear pain. Desires and fears of all kinds occupy the human mind constantly, and they sustain a sense of self with unique characteristics and attributes. One could even state that, at the level of the mind; we are not anything other a bundle of desires and fears, stored up as memories. 
+It is inevitable that both pleasurable and painful experiences are encountered in life. Also it is natural for us to desire pleasure, and fear pain. Desires and fears of all kinds occupy the human mind constantly, and they sustain a sense of self with unique characteristics and attributes. One could even say that, at the level of the mind; we are not anything other than a bundle of desires and fears, stored up as memories. 
 
 Whenever we react to an experience, a particular memory is remembered and used to describe that experience as either this or that, good or bad, advantageous or disadvantageous, beautiful or ugly, and so on. This reminiscent function of the human mind is essential for the survival and the protection of the physical body; such as when there is a fire, we instinctively move away from it. 
 
