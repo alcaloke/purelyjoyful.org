@@ -6,8 +6,6 @@ categories: blog
 permalink: /:categories/:title
 ---
 
-> Ultimately, all problems of our lives boil down to "how we think", which shapes the world that we live in
-
 Ultimately, all problems of our lives boil down to _"how we think"_, which shapes the world that we live in. To be more precise, thoughts are not the problem in themselves. Just like everything else in life, we cannot control what and when we think. All thoughts arise autonomously, and it is impossible to know where they come from nor where they go.
 
 > Thoughts become problematic, only because we allow them. Why do we do this? Because we think that we create our own thoughts, and, believe in their contents absolutely
