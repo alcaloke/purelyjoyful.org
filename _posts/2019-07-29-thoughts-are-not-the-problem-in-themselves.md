@@ -12,7 +12,7 @@ Ultimately, all problems of our lives boil down to _"how we think"_, which shape
 
 Thoughts become problematic, only because we allow them. Why do we do this? Because we think that we create our own thoughts, and, believe in their contents absolutely.
 
-> Thoughts are not the problem in themselves. It is how we relate to them that entitles a thought with power to tyrannise us
+> Thoughts are not the problem in themselves. It is how we relate to them that entitles a thought with the power to tyrannise us
 
 It is possible to establish a new relationship to our own thoughts, so that we do not allow _any_ of them to become problematic. To repeat again; thoughts are not the problem in themselves. It is how we relate to them that entitles a thought with the power to tyrannise us.
 
@@ -30,7 +30,7 @@ Surely, if we were truly free to choose our own thoughts, we would only have ple
 
 A painful thought is only problematic if we think that we can do something about it; for example, to stop it or to change it somehow. When it is accepted that we cannot do anything about a painful thought because it arises autonomously; it no longer carries the power to be problematic. While still acknowledging the relative effect that is its painfulness; we may cease to amplify that thought by imagining further problems of all kinds, which is totally unnecessary.
 
-> Whether you are envious, proud or anxious, if you can recognise the fact that absolutely nothing can be done about it, then that thought is spontaneously liberated right there and then
+> Whether you are envious or anxious, if you can recognise the fact that absolutely nothing can be done about it, then that thought is spontaneously liberated right there and then
 
 The above logic applies to all thoughts. Whether you are anxious or envious, if you can recognise the fact that absolutely nothing can be done about it, then that thought is spontaneously liberated right there and then.
 
