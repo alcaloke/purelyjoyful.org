@@ -3,11 +3,11 @@ description: >
   The writings of this blog records my journey into a purely joyful way of being, that does not waver 
   regardless of what happens in my life. I would like to share some insights that has allowed me to be 
   spontaneous and playful with whatever that life throws at me.
- 
+
 author: Yong
 email: alcaloke@gmail.com
 
-baseurl: 
+baseurl:
 url: https://www.purelyjoyful.org
 
 plugins:
@@ -23,14 +23,14 @@ show_excerpts: true
 
 pagination:
   enabled: true
-  per_page: 3
+  per_page: 5
   permalink: '/home/:num/'
   title: ':title'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
 
-date_format: "%b %-d, %Y"
+date_format: '%b %-d, %Y'
 
 social_links:
   rss: rss
