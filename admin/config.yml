@@ -1,0 +1,17 @@
+backend:
+  name: github
+  repo: alcaloke/purelyjoyful.org
+
+media_folder: 'images/uploads'
+
+collections:
+  - name: 'website-settings'
+    label: 'website-settings'
+    files:
+      - label: 'website-settings'
+        name: 'site'
+        file: '_data/site.yml'
+        fields:
+          - label: 'Tel'
+            name: 'tel'
+            width: 'string'
