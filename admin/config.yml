@@ -14,4 +14,7 @@ collections:
         fields:
           - label: 'Tel'
             name: 'tel'
-            width: 'string'
+            widget: 'string'
+          - label: 'Tel display'
+            name: 'tel_display'
+            widget: 'string'
