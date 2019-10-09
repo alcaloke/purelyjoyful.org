@@ -18,3 +18,18 @@ collections:
           - label: 'Tel display'
             name: 'tel_display'
             widget: 'string'
+
+  - label: 'pages'
+    name: 'pages'
+    files:
+      - label: 'Footer'
+        name: 'footer'
+        file: '_date/footer.yml'
+        fields:
+          - label: 'address'
+            name: 'address'
+            widget: 'object'
+            fields:
+              - label: 'address line 1'
+                name: 'addressline1'
+                widget: 'string'
