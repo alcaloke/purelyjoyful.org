@@ -1,3 +1,9 @@
+banner:
+  image: '/images/uploads/banner-pink-2.jpg'
+  text: 'LIVE JOYFULLY'
+
+tel: '+447870304344'
+tel_display: '+447870304344'
 address:
   addressline1: Flat 8 Burwood Court
   addressline2: 38 Canonbie Road

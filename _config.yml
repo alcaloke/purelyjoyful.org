@@ -7,6 +7,11 @@ description: >
 author: Yong
 email: alcaloke@gmail.com
 
+disqus:
+  shortname: purelyjoyful
+
+google_analytics: UA-142892802-2
+
 baseurl:
 url: https://www.purelyjoyful.org
 
@@ -34,8 +39,3 @@ date_format: '%b %-d, %Y'
 
 social_links:
   rss: rss
-
-disqus:
-  shortname: purelyjoyful
-
-google_analytics: UA-142892802-2
