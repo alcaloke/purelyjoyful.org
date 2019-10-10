@@ -8,15 +8,15 @@ collections:
   - name: 'website-settings'
     label: 'website-settings'
     files:
-      - label: 'website-settings'
-        name: 'site'
-        file: '_data/site.yml'
+      - label: 'website-configurations'
+        name: 'config'
+        file: '_config.yml'
         fields:
-          - label: 'Tel'
-            name: 'tel'
+          - label: 'Title'
+            name: 'title'
             widget: 'string'
-          - label: 'Tel display'
-            name: 'tel_display'
+          - label: 'Description'
+            name: 'description'
             widget: 'string'
 
   - label: 'pages'
