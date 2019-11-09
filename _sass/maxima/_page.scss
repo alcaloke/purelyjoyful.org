@@ -12,6 +12,7 @@
 
 .post-list-heading {
   @include relative-font-size(1.75);
+  margin-top: 1rem;
 }
 
 .post-list {
@@ -64,7 +65,7 @@
     font-size: 24pt;
 
     @media screen and (max-width: $on-palm) {
-      font-size: 12pt;
+      font-size: 14pt;
     }
   }
 }
